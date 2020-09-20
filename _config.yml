@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kirill Shulga"
   avatar           : "profile.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "physicist"
   location         : "Karlsruhe, Germany"
   employer         :
   pubmed           : 
@@ -108,8 +108,9 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
+  telegram         : "https://t.me/Cromat_story_tales"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
