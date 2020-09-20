@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kirill Shulga / Kirill Shulga"
+title                    : "Kirill Shulga"
 title_separator          : "-"
 name                     : &name "Kirill Shulga"
 description              : &description "physicist"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kirill Shulga"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Karlsruhe, Germany"
   employer         :
