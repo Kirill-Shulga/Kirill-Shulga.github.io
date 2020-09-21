@@ -20,6 +20,11 @@ Thesis - "Microwave investigation of superconducting coherent systems and quantu
 
 Work experience
 ======
+
+* July 2020 - present
+  * Postdoctoral Researcher
+  * Karlsruhe Institute of Technology (KIT), Institute of Physics
+  
 * September 2017 - April 2020
   * Postdoctoral Researcher
   * RIKEN, Center for Emergent Matter Science (CEMS)
