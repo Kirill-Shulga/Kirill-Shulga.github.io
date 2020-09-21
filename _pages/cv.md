@@ -16,7 +16,6 @@ Education
 * Ph.D in Condensed matter physics, Institute of Solid State Physics, Russian Academy of Science, 2017
 
 Thesis - "Microwave investigation of superconducting coherent systems and quantum metamaterials"
-
 (Research advisors: Prof. Dr. Valery Ryazanov, Prof. Dr. Alexey Ustinov)
 
 Work experience
