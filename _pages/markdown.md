@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Treasure"
-permalink: /markdown/
+permalink: /posts/
 author_profile: true
 ---
 
