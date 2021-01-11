@@ -1,6 +1,6 @@
 ---
 title: "場の理論の基礎について"
-collection: posts
+collection: treasure
 permalink: /posts/Yukawa_paper
 date: 2021-01-11
 venue: 'Kagaku'
