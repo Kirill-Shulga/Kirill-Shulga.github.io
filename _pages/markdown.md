@@ -1,6 +1,8 @@
 ---
 layout: archive
-title: "Treasure
+title: "Treasure"
+permalink: /markdown/
+author_profile: true
 ---
 
 {% if author.googlescholar %}
