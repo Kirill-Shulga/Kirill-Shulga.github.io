@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: 2021-11-01
+permalink: /posts/2021/11/blog-post-1/
 tags:
   - cool posts
   - category1
@@ -15,6 +15,3 @@ Headings are cool
 
 You can have many headings
 ======
-
-Aren't headings cool?
-------
