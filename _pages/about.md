@@ -18,8 +18,6 @@ Wolfgang-Gaede-Str. 1a, Room 116
 
 76131 Karlsruhe, Germany
 
-Tel.: + 49 721 608 – 45837
-
 Email
 ======
 kirill.shulga (at) kit.edu
