@@ -1,17 +1,14 @@
 ---
-title: 'Blog Post number 1'
-date: 2021-11-01
-permalink: /posts/2021/11/blog-post-1/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: "場の理論の基礎について"
+collection: publications
+permalink: /publication/2020-09-06-TM
+date: 2021-01-11
+venue: 'Kagaku'
+citation: 'Hideki Yukawa , Kagaku \textbf{12}, 249 (1943)'
+
+Sometimes I find very interesting files and treasures hidden by time and language barriers. One such treasure is before you. It is the article (or rather a series of three articles) by the Japanese theoretical physicist and Nobel laureate Hideki Yukawa, which I found in the RIKEN Institute library (Wako campus) in printed form. As far as I can judge, you won't be able to find it anywhere else on the web except on my site. 
+
+I have made recognition of the old printed text and I am putting the three-part file stitched together here. The text of this article was written in the old, pre-reform Japanese, and therefore, on request, I can provide its modernized version as well as my translations into English and Russian. I must warn you that I am not a native Japanese speaker and my translation may not be perfect.  
+
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
+[Download paper here](http://kirill-shulga.github.io/files/Yukawa_paper.pdf)
