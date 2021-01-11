@@ -23,17 +23,17 @@ Work experience
 
 * July 2020 - present
   * Postdoctoral Researcher
-  * Karlsruhe Institute of Technology (KIT), Institute of Physics
+  * Karlsruhe Institute of Technology (KIT), Institute of Physics, Germany
   
 * September 2017 - April 2020
   * Postdoctoral Researcher
-  * RIKEN, Center for Emergent Matter Science (CEMS)
+  * RIKEN, Center for Emergent Matter Science (CEMS), Japan
 
 * September 2013 - August 2017
   * Research Fellow
-  * Russian Quantum Center, Superconducting Quantum Circuits group
+  * Russian Quantum Center, Superconducting Quantum Circuits group, Russia
 
 
 * January 2012 - August 2017
   * Junior researcher
-  * Moscow Institute of Steel and Alloys, The lab of Superconducting Metamaterials  
+  * Moscow Institute of Steel and Alloys, The lab of Superconducting Metamaterials, Russia
