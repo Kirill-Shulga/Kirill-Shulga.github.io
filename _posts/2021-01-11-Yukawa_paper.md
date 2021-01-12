@@ -11,4 +11,5 @@ Sometimes I find very interesting files and treasures hidden by time and languag
 
 I have made recognition of the old printed text and I am putting the three-part file stitched together here. The text of this article was written in the old, pre-reform Japanese, and therefore, on request, I can provide (on request) its modernized version as well as my translations into English and Russian. I must warn you that I am not a native Japanese speaker and my translation may not be perfect. 
 
-[Download paper here](http://kirill-shulga.github.io/files/YukawaMain.pdf)
+[Download original paper here](http://kirill-shulga.github.io/files/Full.pdf)
+[Download recognized paper here](http://kirill-shulga.github.io/files/YukawaMain.pdf)
