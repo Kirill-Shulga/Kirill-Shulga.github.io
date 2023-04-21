@@ -21,19 +21,18 @@ Thesis - "Microwave investigation of superconducting coherent systems and quantu
 Work experience
 ======
 
-* July 2020 - present
+* 2021 - present
   * Postdoctoral Researcher
-  * Karlsruhe Institute of Technology (KIT), Institute of Physics, Germany
+  * Okinawa Institute of Science and Technology (OIST), Japan
   
-* September 2017 - April 2020
+* 2017 - 2020
   * Postdoctoral Researcher
   * RIKEN, Center for Emergent Matter Science (CEMS), Japan
 
-* September 2013 - August 2017
+* 2013 - 2017
   * Research Fellow
   * Russian Quantum Center, Superconducting Quantum Circuits group, Russia
 
-
-* January 2012 - August 2017
+* 2012 - 2017
   * Junior researcher
   * Moscow Institute of Steel and Alloys, The lab of Superconducting Metamaterials, Russia
