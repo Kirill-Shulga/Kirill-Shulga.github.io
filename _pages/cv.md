@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my CV here](http://kirill-shulga.github.io/files/CV.pdf)
 
 Education
 ======
