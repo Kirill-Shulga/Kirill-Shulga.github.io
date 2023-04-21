@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Kirill Shulga, a Postdoctoral researcher at Institute of Physics at Karlsruhe Institute of Technology (KIT) in Germany. I am an experimental physicist, and my research interests include many-body physics, quantum coherent effects, metamaterial physics, and more recently the physics of Time.  I study condensed matter physics phenomena in synthetic quantum matter, such as superconducting qubits and photons in cavities. 
+I am Kirill Shulga, a Postdoctoral researcher at Okinawa Institute of Science and Technology (OIST) in Japan. I am an experimental physicist, and my research interests include many-body physics, quantum coherent effects, metamaterial physics, and more recently the physics of time.  I study condensed matter physics phenomena in synthetic quantum matter, such as superconducting qubits and electrons on Helium. 
 
-Address
-======
-Karlsruhe Institute of Technology (KIT), Institute of Physics 
-
-Wolfgang-Gaede-Str. 1a, Room 116
-
-76131 Karlsruhe, Germany
 
 Email
 ======
-kirill.shulga (at) kit.edu
+kirill.shulga (at) oist.jp
