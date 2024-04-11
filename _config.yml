@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kirill Shulga"
 title_separator          : "-"
 name                     : &name "Kirill Shulga"
-description              : &description "physicist"
+description              : &description "quantum physicist"
 url                      : https://kirill-shulga.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kirill-shulga/kirill-shulga.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kirill Shulga"
   avatar           : "profile.JPG"
-  bio              : "physicist"
-  location         : "Okinawa, Japan"
+  bio              : "quantum physicist"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4kq6UmcAAAAJ&hl=en"
