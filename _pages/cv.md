@@ -21,7 +21,11 @@ Thesis - "Microwave investigation of superconducting coherent systems and quantu
 Work experience
 ======
 
-* 2021 - present
+* 2022 - present
+  * Project Researcher
+  * The University of Tokyo, Japan
+
+* 2021 - 2022
   * Postdoctoral Researcher
   * Okinawa Institute of Science and Technology (OIST), Japan
   
